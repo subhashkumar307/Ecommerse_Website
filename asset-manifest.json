@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Ecommerse_Website/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/Ecommerse_Website/static/js/main.f5b9a2ad.chunk.js",
+    "main.js.map": "/Ecommerse_Website/static/js/main.f5b9a2ad.chunk.js.map",
+    "runtime-main.js": "/Ecommerse_Website/static/js/runtime-main.0efaaa97.js",
+    "runtime-main.js.map": "/Ecommerse_Website/static/js/runtime-main.0efaaa97.js.map",
+    "static/css/2.7be35eaf.chunk.css": "/Ecommerse_Website/static/css/2.7be35eaf.chunk.css",
+    "static/js/2.bd7575ed.chunk.js": "/Ecommerse_Website/static/js/2.bd7575ed.chunk.js",
+    "static/js/2.bd7575ed.chunk.js.map": "/Ecommerse_Website/static/js/2.bd7575ed.chunk.js.map",
+    "static/js/3.1e5526d4.chunk.js": "/Ecommerse_Website/static/js/3.1e5526d4.chunk.js",
+    "static/js/3.1e5526d4.chunk.js.map": "/Ecommerse_Website/static/js/3.1e5526d4.chunk.js.map",
+    "index.html": "/Ecommerse_Website/index.html",
+    "static/css/2.7be35eaf.chunk.css.map": "/Ecommerse_Website/static/css/2.7be35eaf.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/Ecommerse_Website/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.bd7575ed.chunk.js.LICENSE.txt": "/Ecommerse_Website/static/js/2.bd7575ed.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "/Ecommerse_Website/static/media/revicons.e8746a62.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0efaaa97.js",
+    "static/css/2.7be35eaf.chunk.css",
+    "static/js/2.bd7575ed.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.f5b9a2ad.chunk.js"
+  ]
+}
